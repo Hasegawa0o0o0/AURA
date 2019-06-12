@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 11d11c5755f293744b5ff3bc9d851c54
+timeCreated: 1547793935
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bremen Bd BT
+  fontNames:
+  - Bremen Bd BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
